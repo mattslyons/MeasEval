@@ -4,7 +4,7 @@ Counts and measurements are an important part of scientific discourse. It is rel
 
 MeasEval is a new entity and semantic relation extraction task focused on finding counts and measurements, attributes of these quantities, and additional information including measured entities, properties, and measurement contexts.
 
-For more details and to participate, head over to our CodaLab pages:
+For more details and to participate, head over to the competition's CodaLab pages:
 [https://competitions.codalab.org/competitions/25770](https://competitions.codalab.org/competitions/25770)
 
 ### Summary
